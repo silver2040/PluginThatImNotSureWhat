@@ -1,0 +1,5 @@
+name: ChallengePlugin1
+main: com.silver2040.plugin_for_challenge_bad_name
+api-version: 1.16
+version: 0.0.1
+author: silver2040
